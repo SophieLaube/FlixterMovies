@@ -30,7 +30,7 @@ Procédure vidéo ##
 
 Voici un aperçu des histoires d'utilisateurs implémentées:
 
-<img src = 'http: //i.imgur.com/link/to/your/gif/file.gif' title = 'Parcours vidéo' width = '' alt = 'Parcours vidéo' />
+<img src = 'https://imgur.com/6bMomFO' title = 'Parcours vidéo' width = '' alt = 'Parcours vidéo' />
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
