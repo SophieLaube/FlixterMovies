@@ -45,7 +45,7 @@ Décrivez les difficultés rencontrées lors de la création de l'application.
 
 ## Licence
 
-    Copyright [yyyy] [Sophie Laube Marcelus]
+    Copyright 2019 [Sophie Laube Marcelus]
 
     Sous licence Apache, version 2.0 (la "Licence");
     vous ne pouvez utiliser ce fichier que conformément à la licence.
