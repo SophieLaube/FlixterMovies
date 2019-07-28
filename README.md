@@ -2,7 +2,7 @@
 
 ** Flixter Movies ** affiche les derniers films en cours de lecture dans les cinémas. L'application utilise l'API de base de données de films pour afficher des images et des informations de base sur ces films à l'utilisateur.
 
-Temps passé: ** 3h ** heures au total
+Temps passé: ** 72h ** heures au total
 
 ## Histoires d'utilisateurs
 
