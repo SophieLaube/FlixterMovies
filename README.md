@@ -31,6 +31,7 @@ Procédure vidéo ##
 Voici un aperçu des histoires d'utilisateurs implémentées:
 
 <img src = 'https://imgur.com/6bMomFO' title = 'Parcours vidéo' width = '' alt = 'Parcours vidéo' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/I04vCJE"><a href="//imgur.com/a/I04vCJE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
